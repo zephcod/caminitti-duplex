@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Object2VR 3.1.9/10783
 // Filename: silhouette_cardboard.ggsk
-// Generated Thu Oct 24 20:00:27 2024
+// Generated Thu Oct 24 20:17:12 2024
 
 function object2vrSkin(player,base) {
 	var me=this;
